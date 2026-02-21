@@ -45,6 +45,12 @@ A **zero-cost** multi-agent AI system for analyzing emails and detecting phishin
 └──────────┘    └────────────────┘  └──────────┘
 ```
 
+## 🚀 Quick Links
+
+- **📖 [Setup Guide](SETUP_GUIDE.md)** - Detailed installation instructions
+- **🏗️ [Architecture](ARCHITECTURE.md)** - Technical architecture details
+- **🌐 [Deployment Guide](DEPLOYMENT.md)** - Deploy to production (Render, Vercel, etc.)
+
 ## Prerequisites
 
 - Python 3.10+
