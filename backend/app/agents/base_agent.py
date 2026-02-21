@@ -12,7 +12,7 @@ class BaseAgent(ABC):
 
     def __init__(self, groq_client: Groq):
         self.client = groq_client
-        self.model = "llama-3.1-70b-versatile"  # Groq's free tier model
+        self.model = "llama-3.3-70b-versatile"  # Groq's free tier model
         self.agent_type = None
 
     @abstractmethod
